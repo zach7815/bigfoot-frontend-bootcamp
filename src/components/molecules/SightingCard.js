@@ -7,6 +7,9 @@ const sightingCard= styled.div`
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   padding: 1em;
   color: #BF4F74;
+  text-align: left;
+  width:40%;
+  align-self: center;
   h3,h4{
     text-decoration: underline;
   }
